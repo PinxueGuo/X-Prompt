@@ -1,0 +1,12 @@
+opencv-python
+pillow
+scikit-image
+einops
+timm
+matplotlib
+easydict
+pandas
+vos-benchmark
+tensorboard
+tensorboardX
+loralib
